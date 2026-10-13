@@ -117,41 +117,65 @@ Currently: **Founder & Lead Engineer at [Toven360](https://toven360.com)**, buil
 ### 🔥 Featured Projects
 
 #### 🏠 PROMZYGRAM HOMES — Premium Real Estate Platform
+![PROMZYGRAM HOMES](./screenshots/promzygram.png)
 Production real estate website for a Nigerian property agency. Astro + TypeScript + Tailwind. Full SEO, blog, favorites, compare, mortgage calculator, WhatsApp integration, and Nigerian hosting.
-`Astro` `TypeScript` `Tailwind CSS` `Vercel/Nigerian Host`
+
+`Astro` `TypeScript` `Tailwind CSS` `Nigerian Host`
+
+---
 
 #### 🤖 HireLogic — AI Recruitment Platform
+![HireLogic](./screenshots/hirelogic.png)
 Multi-module backend that screens CVs using RAG + vector embeddings + GPT-4o-mini. Cuts manual screening from 2 hours to 15 minutes per batch.
+
 `Python` `FastAPI` `Next.js` `ChromaDB` `OpenAI`
 [GitHub](https://github.com/Dev-Tom9/HireLogic)
 
+---
+
 #### ⚙️ Nexus AI-Ops — Workflow Automation Platform
+![Nexus AI-Ops](./screenshots/nexus.png)
 Modular automation backend with JWT auth, OCR/PDF extraction, real-time task tracking, and structured report generation. Reduces 1-2 day reporting tasks to 20-30 minutes.
+
 `Python` `FastAPI` `React` `PostgreSQL`
 [GitHub](https://github.com/Dev-Tom9/Nexus-AI-Ops)
 
-#### 👁️ Edge Vision Controller — Edge AI Perception Loop
-Asynchronous Perception-Cognition-Actuation loop on Raspberry Pi using OpenCV + OpenAI Vision API.
-`Python` `OpenCV` `OpenAI Vision` `Raspberry Pi`
-[GitHub](https://github.com/Dev-Tom9/Edge-Vision-Controller)
+---
 
 #### 🏥 Westend Hospital — Hospital Management System
-Full-stack HMS handling 200+ staff, 70-80 patients/month. Includes biometric attendance integration that eliminated 100% of manual reconciliation.
+![Westend Hospital](./screenshots/westend.png)
+Full-stack HMS handling 200+ staff and 70-80 patients/month. Includes biometric attendance integration that eliminated 100% of manual reconciliation.
+
 `PHP` `CodeIgniter` `Laravel` `MySQL`
 Live: [westendhospital.health](https://westendhospital.health)
 
-#### 🧪 Safaricoollab — Laboratory Management System
-Role-based lab operations platform for 27 scientists processing 100+ tests/month.
+---
+
+#### 🧪 Safaricoollab — Laboratory Management Platform
+![Safaricoollab Website](./screenshots/safari.png)
+![Safaricoollab Lab App](./screenshots/safari-app.png)
+Role-based lab operations platform with a public website and a separate lab management application. 27 lab scientists processing 100+ tests/month.
+
+**Website:** [safaricoollab.com](https://safaricoollab.com)
+**Lab App:** [app.safaricoollab.com](https://app.safaricoollab.com)
+
 `PHP` `Laravel` `MySQL`
-Live: [app.safaricoollab.com](https://app.safaricoollab.com)
+
+---
 
 #### 🛡️ CoverX — General Insurance Platform
-Full policy lifecycle: enrollment, verification, provider validation, claims. 200+ policyholders in production.
+![CoverX](./screenshots/coverx.png)
+Full policy lifecycle: enrollment, policyholder verification, provider validation, and claims processing. 200+ policyholders in production.
+
 `PHP` `JavaScript` `MySQL`
 Live: [coverx.org](https://coverx.org)
 
+---
+
 #### 📡 EcoFiberX — Network Subscription Platform
+![EcoFiberX](./screenshots/ecofiber.png)
 Self-service platform for 150+ router customers across Lagos, Warri, Sapele, Owerri, and Abuja. Deployed on Google Play Store.
+
 `Full Stack` `Mobile` `Payments`
 
 ---
