@@ -173,7 +173,7 @@ Live: [coverx.org](https://coverx.org)
 ---
 
 #### 📡 EcoFiberX — Network Subscription Platform
-![EcoFiberX](./screenshots/ecofiber.png)
+![EcoFiberX](./screenshots/ecofiberx.png)
 Self-service platform for 150+ router customers across Lagos, Warri, Sapele, Owerri, and Abuja. Deployed on Google Play Store.
 
 `Full Stack` `Mobile` `Payments`
