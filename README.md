@@ -24,7 +24,7 @@ I build **backend systems, AI agents, and automation platforms** that replace ma
 - **Full-stack delivery** — from database schema to production deployment
 - **Business-critical systems** — healthcare, insurance, fintech, network operations
 
-Currently: **Founder & Lead Engineer at [Toven360](https://toven360.com)**, building AI agents and automation for global clients.
+Currently: **Founder & Lead Engineer at [Toven360](https://toven360.com)**, building Software Solutions, AI agents and automation for global clients.
 
 ---
 
